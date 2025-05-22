@@ -1,0 +1,28 @@
+E:\projects\C#\c# consol\makeEquation\makeEquation\bin\Debug\net8.0\makeEquation.exe
+E:\projects\C#\c# consol\makeEquation\makeEquation\bin\Debug\net8.0\makeEquation.deps.json
+E:\projects\C#\c# consol\makeEquation\makeEquation\bin\Debug\net8.0\makeEquation.runtimeconfig.json
+E:\projects\C#\c# consol\makeEquation\makeEquation\bin\Debug\net8.0\makeEquation.dll
+E:\projects\C#\c# consol\makeEquation\makeEquation\bin\Debug\net8.0\makeEquation.pdb
+E:\projects\C#\c# consol\makeEquation\makeEquation\obj\Debug\net8.0\makeEquation.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\C#\c# consol\makeEquation\makeEquation\obj\Debug\net8.0\makeEquation.AssemblyInfoInputs.cache
+E:\projects\C#\c# consol\makeEquation\makeEquation\obj\Debug\net8.0\makeEquation.AssemblyInfo.cs
+E:\projects\C#\c# consol\makeEquation\makeEquation\obj\Debug\net8.0\makeEquation.csproj.CoreCompileInputs.cache
+E:\projects\C#\c# consol\makeEquation\makeEquation\obj\Debug\net8.0\makeEquation.dll
+E:\projects\C#\c# consol\makeEquation\makeEquation\obj\Debug\net8.0\refint\makeEquation.dll
+E:\projects\C#\c# consol\makeEquation\makeEquation\obj\Debug\net8.0\makeEquation.pdb
+E:\projects\C#\c# consol\makeEquation\makeEquation\obj\Debug\net8.0\makeEquation.genruntimeconfig.cache
+E:\projects\C#\c# consol\makeEquation\makeEquation\obj\Debug\net8.0\ref\makeEquation.dll
+C:\Users\steve\OneDrive\Desktop\GitHub\C#\makeEquation\makeEquation\bin\Debug\net8.0\makeEquation.exe
+C:\Users\steve\OneDrive\Desktop\GitHub\C#\makeEquation\makeEquation\bin\Debug\net8.0\makeEquation.deps.json
+C:\Users\steve\OneDrive\Desktop\GitHub\C#\makeEquation\makeEquation\bin\Debug\net8.0\makeEquation.runtimeconfig.json
+C:\Users\steve\OneDrive\Desktop\GitHub\C#\makeEquation\makeEquation\bin\Debug\net8.0\makeEquation.dll
+C:\Users\steve\OneDrive\Desktop\GitHub\C#\makeEquation\makeEquation\bin\Debug\net8.0\makeEquation.pdb
+C:\Users\steve\OneDrive\Desktop\GitHub\C#\makeEquation\makeEquation\obj\Debug\net8.0\makeEquation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\OneDrive\Desktop\GitHub\C#\makeEquation\makeEquation\obj\Debug\net8.0\makeEquation.AssemblyInfoInputs.cache
+C:\Users\steve\OneDrive\Desktop\GitHub\C#\makeEquation\makeEquation\obj\Debug\net8.0\makeEquation.AssemblyInfo.cs
+C:\Users\steve\OneDrive\Desktop\GitHub\C#\makeEquation\makeEquation\obj\Debug\net8.0\makeEquation.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Desktop\GitHub\C#\makeEquation\makeEquation\obj\Debug\net8.0\makeEquation.dll
+C:\Users\steve\OneDrive\Desktop\GitHub\C#\makeEquation\makeEquation\obj\Debug\net8.0\refint\makeEquation.dll
+C:\Users\steve\OneDrive\Desktop\GitHub\C#\makeEquation\makeEquation\obj\Debug\net8.0\makeEquation.pdb
+C:\Users\steve\OneDrive\Desktop\GitHub\C#\makeEquation\makeEquation\obj\Debug\net8.0\makeEquation.genruntimeconfig.cache
+C:\Users\steve\OneDrive\Desktop\GitHub\C#\makeEquation\makeEquation\obj\Debug\net8.0\ref\makeEquation.dll

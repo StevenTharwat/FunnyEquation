@@ -1,0 +1,15 @@
+E:\projects\c# consol\makeEquation\makeEquation\bin\Debug\net6.0\makeEquation.exe
+E:\projects\c# consol\makeEquation\makeEquation\bin\Debug\net6.0\makeEquation.deps.json
+E:\projects\c# consol\makeEquation\makeEquation\bin\Debug\net6.0\makeEquation.runtimeconfig.json
+E:\projects\c# consol\makeEquation\makeEquation\bin\Debug\net6.0\makeEquation.dll
+E:\projects\c# consol\makeEquation\makeEquation\bin\Debug\net6.0\makeEquation.pdb
+E:\projects\c# consol\makeEquation\makeEquation\obj\Debug\net6.0\makeEquation.csproj.AssemblyReference.cache
+E:\projects\c# consol\makeEquation\makeEquation\obj\Debug\net6.0\makeEquation.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\c# consol\makeEquation\makeEquation\obj\Debug\net6.0\makeEquation.AssemblyInfoInputs.cache
+E:\projects\c# consol\makeEquation\makeEquation\obj\Debug\net6.0\makeEquation.AssemblyInfo.cs
+E:\projects\c# consol\makeEquation\makeEquation\obj\Debug\net6.0\makeEquation.csproj.CoreCompileInputs.cache
+E:\projects\c# consol\makeEquation\makeEquation\obj\Debug\net6.0\makeEquation.dll
+E:\projects\c# consol\makeEquation\makeEquation\obj\Debug\net6.0\refint\makeEquation.dll
+E:\projects\c# consol\makeEquation\makeEquation\obj\Debug\net6.0\makeEquation.pdb
+E:\projects\c# consol\makeEquation\makeEquation\obj\Debug\net6.0\makeEquation.genruntimeconfig.cache
+E:\projects\c# consol\makeEquation\makeEquation\obj\Debug\net6.0\ref\makeEquation.dll
